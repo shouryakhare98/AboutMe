@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="AboutMeButton">About Me</string>
+
+    <string name="professionalTextHeading">About Me - Professional</string>
+    <string name="professionalText">Here you have professional stuff...</string>
+
+    <string name="personalTextHeading">About Me - Personal</string>
+    <string name="personalText">Here you have personal stuff...</string>
+</resources>
